@@ -1,0 +1,30 @@
+{
+  "name": "traky-shopping",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcrypt": "^5.0.0",
+    "js-cookie": "^2.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoimport": "^1.0.6",
+    "mongoose": "^5.9.20",
+    "next": "9.4.4",
+    "nookies": "^2.3.2",
+    "nprogress": "^0.2.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-redux": "^7.2.0",
+    "react-stripe-checkout": "^2.6.3",
+    "semantic-ui-react": "^0.88.2",
+    "shortid": "^2.2.15",
+    "stripe": "^8.66.0",
+    "uuid": "^3.3.2",
+    "validator": "^13.1.1"
+  }
+}
